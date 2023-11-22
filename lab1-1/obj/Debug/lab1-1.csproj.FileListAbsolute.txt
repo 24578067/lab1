@@ -1,0 +1,7 @@
+C:\Users\Danil\source\repos\lab1-1\bin\Debug\lab1-1.exe.config
+C:\Users\Danil\source\repos\lab1-1\bin\Debug\lab1-1.exe
+C:\Users\Danil\source\repos\lab1-1\bin\Debug\lab1-1.pdb
+C:\Users\Danil\source\repos\lab1-1\obj\Debug\lab1-1.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\lab1-1\obj\Debug\lab1-1.exe
+C:\Users\Danil\source\repos\lab1-1\obj\Debug\lab1-1.pdb
+C:\Users\Danil\source\repos\lab1-1\obj\Debug\lab1-1.csproj.AssemblyReference.cache
